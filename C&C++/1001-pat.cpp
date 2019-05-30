@@ -4,8 +4,8 @@ int f1(int x){
 	return x;
 }
 int main(){
-	int a,sum=0;
-	scanf("%d",&a);
+	int a,sum=0;//жусз╨цак 
+	scanf("%d",&a); 
 	while(1){
 		if(a%2==0){
 			a=f1(a);
